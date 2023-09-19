@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../../maven-repo/org/springframework/boot/spring-boot-starter-parent/3.0.6/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security_custom_rules/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security_custom_rules/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_security_03split/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_security_03split/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_security_03web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_security_03web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_security_04web_verifycode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_security_05_password_upgrade/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_security_06_remember_me/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_security_06_remember_me_split/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_security_07_session_management/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_security_08_csrf_web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_security_09_cors/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_security_10_authorize/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_security_11_dynamicAuthorize/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_security_12_oauth2_github/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_security_13_authorization_server_old/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

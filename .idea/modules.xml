@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/security_custom_rules/security_custom_rules.iml" filepath="$PROJECT_DIR$/security_custom_rules/security_custom_rules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring_security.iml" filepath="$PROJECT_DIR$/.idea/spring_security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_security_03split/spring_security_03split.iml" filepath="$PROJECT_DIR$/spring_security_03split/spring_security_03split.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_security_03web/spring_security_03web.iml" filepath="$PROJECT_DIR$/spring_security_03web/spring_security_03web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_security_04web_verifycode/spring_security_04web_verifycode.iml" filepath="$PROJECT_DIR$/spring_security_04web_verifycode/spring_security_04web_verifycode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_security_05_password_upgrade/spring_security_05_password_upgrade.iml" filepath="$PROJECT_DIR$/spring_security_05_password_upgrade/spring_security_05_password_upgrade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_security_06_remember_me/spring_security_06_remember_me.iml" filepath="$PROJECT_DIR$/spring_security_06_remember_me/spring_security_06_remember_me.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_security_06_remember_me_split/spring_security_06_remember_me_split.iml" filepath="$PROJECT_DIR$/spring_security_06_remember_me_split/spring_security_06_remember_me_split.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_security_07_session_management/spring_security_07_session_management.iml" filepath="$PROJECT_DIR$/spring_security_07_session_management/spring_security_07_session_management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_security_08_csrf_web/spring_security_08_csrf_web.iml" filepath="$PROJECT_DIR$/spring_security_08_csrf_web/spring_security_08_csrf_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_security_09_cors/spring_security_09_cors.iml" filepath="$PROJECT_DIR$/spring_security_09_cors/spring_security_09_cors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_security_10_authorize/spring_security_10_authorize.iml" filepath="$PROJECT_DIR$/spring_security_10_authorize/spring_security_10_authorize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_security_11_dynamicAuthorize/spring_security_11_dynamicAuthorize.iml" filepath="$PROJECT_DIR$/spring_security_11_dynamicAuthorize/spring_security_11_dynamicAuthorize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_security_12_oauth2_github/spring_security_12_oauth2_github.iml" filepath="$PROJECT_DIR$/spring_security_12_oauth2_github/spring_security_12_oauth2_github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_security_13_authorization_server_old/spring_security_13_authorization_server_old.iml" filepath="$PROJECT_DIR$/spring_security_13_authorization_server_old/spring_security_13_authorization_server_old.iml" />
+    </modules>
+  </component>
+</project>
